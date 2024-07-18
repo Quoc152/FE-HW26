@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Nguyen Van A",
+        "dateOfBirth" : "2002/12/01"
+    },
+    {
+        "name" : "Le Van B",
+        "dateOfBirth" : "2003/03/17"
+    },
+    {
+        "name" : "Pham C",
+        "dateOfBirth" : "2004/11/11"
+    },
+    {
+        "name" : "Tran D",
+        "dateOfBirth" : "2001/01/27"
+    },
+    {
+        "name" : "Lu A",
+        "dateOfBirth" : "2000/10/01"
+    },
+    {
+        "name" : "Le G",
+        "dateOfBirth" : "2006/02/21"
+    },
+    {
+        "name" : "Ho F",
+        "dateOfBirth" : "2003/01/15"
+    }
+]
